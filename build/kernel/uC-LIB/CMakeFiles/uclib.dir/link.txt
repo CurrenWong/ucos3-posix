@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuclib.a  CMakeFiles/uclib.dir/lib_ascii.c.o CMakeFiles/uclib.dir/lib_math.c.o CMakeFiles/uclib.dir/lib_mem.c.o CMakeFiles/uclib.dir/lib_str.c.o
+/usr/bin/ranlib libuclib.a

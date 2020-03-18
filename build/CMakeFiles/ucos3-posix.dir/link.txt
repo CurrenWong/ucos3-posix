@@ -1,0 +1,1 @@
+/usr/bin/cc  -static -O0 -g3 -Wall -fmessage-length=0    -rdynamic CMakeFiles/ucos3-posix.dir/app/Posix/GNU/OS3/app.c.o CMakeFiles/ucos3-posix.dir/app/Posix/GNU/OS3/os_app_hooks.c.o  -o ucos3-posix kernel/uCOS-III/Ports/Posix/GNU/libucos-port.a kernel/uCOS-III/Source/libucos.a kernel/uC-LIB/libuclib.a kernel/uC-CPU/libcpu.a kernel/uC-CPU/Posix/GNU/libcpu-arch.a -lpthread 

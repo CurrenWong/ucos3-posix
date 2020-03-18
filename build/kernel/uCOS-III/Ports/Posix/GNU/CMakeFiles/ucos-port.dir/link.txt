@@ -1,0 +1,2 @@
+/usr/bin/ar qc libucos-port.a  CMakeFiles/ucos-port.dir/os_cpu_c.c.o
+/usr/bin/ranlib libucos-port.a
